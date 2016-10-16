@@ -66,4 +66,4 @@ def get_Beauty(page_range, lowest):
         get_one_page(current_page, lowest)
 
 # getBeauty(page_number, push_lowest_bound)
-get_Beauty(2, 90)
+get_Beauty(2, 50)
